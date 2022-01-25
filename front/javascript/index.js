@@ -14,7 +14,7 @@ fetch("http://localhost:3000/api/products")
         +'</article>'
       +'</a>'
       items.innerHTML = kanap
-
+ 
       });
     let produits = document.querySelectorAll(".items");
       console.log(produits);
